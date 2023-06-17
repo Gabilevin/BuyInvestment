@@ -16,6 +16,6 @@
 ```node.js
 	npm start
 ```
-* Choose option "a". 
+* Choose the option "a" in the frontend Terminal. 
 
 After that, upon loading the code to the user's phone, you will be able to register and enjoy the interface.
